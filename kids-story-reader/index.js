@@ -8,7 +8,7 @@
 const Alexa = require('alexa-sdk');
 const ReadFile = require('read-file');
 
-const APP_ID = 'amzn1.ask.skill.6c763cb5-18c8-46b1-b6a7-456479e03e3e'; 
+const APP_ID = 'your appId here'; 
 
 const speachOutputConstants = {
             SKILL_NAME: 'Kids Story Reader',

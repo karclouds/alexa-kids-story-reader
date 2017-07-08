@@ -1,0 +1,24 @@
+{
+  "intents": [
+    {
+      "intent": "AMAZON.CancelIntent",  
+      "samples": []  
+    },
+    {
+      "intent": "AMAZON.HelpIntent",
+      "samples": []
+    },
+    {
+      "intent": "AMAZON.StopIntent",
+      "samples": []
+    },
+    {
+      "intent": "KidsStoryReaderIntent",
+      "slots": [
+        {
+          "name": "StoryName",
+          "type": "LIST_OF_STORIES"
+        }]
+    }
+  ]
+}

@@ -1,0 +1,7 @@
+KidsStoryReaderIntent ask the reader to read the {StoryName} story for my kid
+KidsStoryReaderIntent ask the reader to read {StoryName} story for my kid
+KidsStoryReaderIntent ask the reader to read {StoryName} story for my daughter
+KidsStoryReaderIntent ask the reader to read {StoryName} for me
+KidsStoryReaderIntent ask the reader to read {StoryName} for my daughter
+KidsStoryReaderIntent ask the reader {StoryName}
+KidsStoryReaderIntent ask the reader to read {StoryName}
